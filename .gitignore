@@ -1,0 +1,10 @@
+*.idea
+*/target/
+*/build/
+.project
+.reviewboardrc
+.settings/
+*.classpath
+*.class
+*.project
+*.iml
